@@ -1,0 +1,20 @@
+# Compiled app files
+*.app
+
+# AL Language cache and symbols
+.alcache/
+.alpackages/
+.snapshots/
+
+# Visual Studio Code local files
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Translation files
+Translations/*.g.xlf
+
+# Build output
+out/
+dist/
